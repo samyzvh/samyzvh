@@ -1,20 +1,14 @@
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="left" valign="top">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&bold=true&size=24&pause=1000&color=60A3D9&center=false&vCenter=true&width=435&lines=⁂⁙☆Hello,+eu+sou+Samy!!;♡+Bem-vinda(ao)+ao+meu+perfil." />
-      <br><br>
-      <p>
-        Decidi que o Back-end é o meu lugar porque me desperta muita curiosidade de como as coisas acontecem por trás dos panos e onde a lógica realmente ganha vida. (✿◡‿◡)
-      </p>
-      <p>
-        Por aqui você vai descobrir um pouco sobre mim, meus futuros interesses e o que pretendo aprender. ♡
-      </p>
-    </td>
-    <td align="right" valign="top">
-      <img src="https://i.pinimg.com/originals/c8/4f/b7/c84fb740471d58ba9597ace28969d490.gif" width="400px" />
-    </td>
-  </tr>
-</table>
+<div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&bold=true&size=24&pause=1000&color=60A3D9&center=false&vCenter=true&width=435&lines=⁂⁙☆Hello,+eu+sou+Samy!!;♡+Bem-vinda(ao)+ao+meu+perfil." />
+
+  <br>
+
+   <p>Decidi que o Back-end é o meu lugar porque me desperta muita curiosidade de como as coisas acontecem por trás dos panos e onde a lógica realmente ganha vida. (✿◡‿◡)</p>
+   <p>Por aqui você vai descobrir um pouco sobre mim, meus futuros interesses e o que pretendo aprender. ♡</p>
+   <img align="right" src="https://i.pinimg.com/originals/c8/4f/b7/c84fb740471d58ba9597ace28969d490.gif" width="400px" />
+</div>
+
+<div></div>
 
 <hr>
 
