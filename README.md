@@ -1,7 +1,7 @@
 <div >
-  <img width="550px" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&bold=true&size=24&pause=1000&color=60A3D9&center=false&vCenter=true&width=435&lines=⁂⁙☆Hello,+eu+sou+Samy!!;♡+Bem-vinda(ao)+ao+meu+perfil." />
+  <img width="580px" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&bold=true&size=24&pause=1000&color=60A3D9&center=false&vCenter=true&width=435&lines=⁂⁙☆Hello,+eu+sou+Samy!!;♡+Bem-vinda(ao)+ao+meu+perfil." />
   
-<img align="right" src="https://i.pinimg.com/originals/c8/4f/b7/c84fb740471d58ba9597ace28969d490.gif" width="400px" />
+<img align="right" src="https://i.pinimg.com/originals/c8/4f/b7/c84fb740471d58ba9597ace28969d490.gif" width="380px" />
 
 <div align="left">
 <p>Decidi que o Back-end é o meu lugar porque me desperta muita curiosidade de como as coisas acontecem por trás dos panos e onde a lógica realmente ganha vida. (✿◡‿◡)</p>
@@ -10,7 +10,7 @@
 
 <br><br>
 
-## 🌙 Sobre mim
+# 🌙 Sobre mim
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=samyzvh.samyzvh)
 
 <div>
@@ -36,30 +36,49 @@
 </p> 
 
 
-<h2>🛠️ Minhas Capacidades Intelectuais</h2>
+# 🛠️ Skills & Tecnologias 
 <table align="center">
   <tr>
     <td align="center" align="top" width="">
       <h4>Linguagens de Programação</h4>
-      <img src="https://skillicons.dev/icons?i=java,py,html,css" />
+      <img src="https://skillicons.dev/icons?i=java,py" />
     </td>
     <td align="center" align="top" width="">
-      <h4>Ferramentas & Tecnologias</h4>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,notion" />
+      <h4>Ferramentas & Plataformas</h4>
+      <img src="https://skillicons.dev/icons?i=github,vscode,notion" />
     </td>
   </tr>
 </table>
 
 <hr>
 
-<h2>📁 Meus Projetos</h2>
-<ul>
-  <li>🐍 **[Evolução do meu aprendizado](COLE_AQUI_LINK_DO_ARQUIVO_GITHUB)**: Scripts de lógica em Python como simulador de empréstimos e conversor de moedas.</li>
-</ul>
+# 💡 Projetos em Destaque
 
+### 🔥 Projeto: [Maratona de Lógica: Python Fundamentals](https://github.com/samyzvh/Jornada-Tech)
+<div>
+  <img src="https://img.shields.io/badge/Python-FF9900?logo=python" alt="Python"/>
+</div>
+
+> 📝 Descrição: Este projeto é um laboratório de algoritmos onde desenvolvi soluções para problemas simples e do nosso cotidiano, como simuladores financeiros, cálculos de média acadêmica e automação de repetições. Com o objetivo de aperfeiçoar minha prática e lógica.
+> 
+> ⭐ Destaques:
+> - Implementação de fluxos complexos de aprovação e análise de dados utilizando estruturas condicionais (if/elif/else).
+> - Domínio de laços de repetição (while e for) para automação de tarefas e sequências lógicas.
+> - Manipulação de diferentes tipos de variáveis (int, float, string) e formatação precisa de saídas numéricas.
+> - Criação de scripts interativos que processam entradas do usuário em tempo real para gerar resultados dinâmicos.
+</p>
+      <p align="left">
+        <a href="COLE_AQUI_O_LINK_DO_SEU_ARQUIVO">
+          <img src="https://img.shields.io/badge/Acessar_Código-000000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 <hr>
 
-<h2>🚀 Tech Stack que pretendo aprender no futuro</h2>
+<h2 align="left">🚀 Tech Stack que pretendo aprender no futuro</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,docker,aws,mongodb,postgresql,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,c,cpp,cs,spring,docker,aws,mongodb,postgresql,linux,git" />
 </p>
+
