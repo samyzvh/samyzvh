@@ -1,5 +1,5 @@
 <div >
-  <img width="580px" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&bold=true&size=24&pause=1000&color=60A3D9&center=false&vCenter=true&width=435&lines=⁂⁙☆Hello,+eu+sou+Samy!!;♡+Welcome+to+my+profile." />
+  <img width="580px" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&bold=true&size=24&pause=1000&color=60A3D9&center=false&vCenter=true&width=435&lines=⁂⁙☆Hello,+I+am+Samy!!;♡+Welcome+to+my+profile." />
   
 <img align="right" src="https://i.pinimg.com/originals/c8/4f/b7/c84fb740471d58ba9597ace28969d490.gif" width="370px" />
 
