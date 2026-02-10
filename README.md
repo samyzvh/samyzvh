@@ -1,11 +1,11 @@
 <div >
   <img width="580px" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&bold=true&size=24&pause=1000&color=60A3D9&center=false&vCenter=true&width=435&lines=⁂⁙☆Hello,+eu+sou+Samy!!;♡+Bem-vinda(ao)+ao+meu+perfil." />
   
-<img align="right" src="https://i.pinimg.com/originals/c8/4f/b7/c84fb740471d58ba9597ace28969d490.gif" width="380px" />
+<img align="right" src="https://i.pinimg.com/originals/c8/4f/b7/c84fb740471d58ba9597ace28969d490.gif" width="370px" />
 
 <div align="left">
 <p>Decidi que o Back-end é o meu lugar porque me desperta muita curiosidade de como as coisas acontecem por trás dos panos e onde a lógica realmente ganha vida. (✿◡‿◡)</p>
-<p>Por aqui você vai descobrir um pouco sobre mim, meus futuros interesses e o que pretendo aprender. ♡</p>
+<p>Olá, me chamo samara e por aqui você vai descobrir um pouco sobre mim, meus futuros interesses e o que pretendo aprender. ♡</p>
 </div>
 
 <br><br>
@@ -31,7 +31,7 @@
 <p align="right">
   <a href="https://wa.me/5581996163089"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://www.instagram.com/samyzvh"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="COLE_AQUI_LINK_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/samysouza"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:samyzvh@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p> 
 
@@ -77,8 +77,25 @@
 </table>
 <hr>
 
-<h2 align="left">🚀 Tech Stack que pretendo aprender no futuro</h2>
+# 📖 Atualmente Aprendendo
+
+<div>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+</div>
+
+---
+<h1 align="left">💻 Tech Stack que pretendo aprender no futuro</h1>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,c,cpp,cs,spring,docker,aws,mongodb,postgresql,linux,git" />
 </p>
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/55/e8/af/55e8af23ff4e1055efd3605624dceb66.gif" width="500" alt="coding gif"/>
+  
+  **Obrigado por visitar meu perfil! (´▽`ʃ♡ƪ)**
+  
+  *Para mais informações verifique meu LinkedIn*
+  
 
