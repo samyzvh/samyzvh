@@ -4,39 +4,40 @@
 <img align="right" src="https://i.pinimg.com/originals/c8/4f/b7/c84fb740471d58ba9597ace28969d490.gif" width="370px" />
 
 <div align="left">
-<p>I decided that Back-end is the place for me because I'm very curious about how things happen behind the scenes and it's where logic truly comes to life. (✿◡‿◡)</p>
-<p>Hello, my name is Samara and here you will discover a bit about me, my future interests, and what I intend to learn. ♡</p>
+<p>I decided that Back-end is the place for me because I'm very curious about how things happen behind the scenes and it's where logic truly comes to life. ♥*♡｡.(❁ᴗ͈ ˬᴗ͈ ) ༉‧ ♡*.✧</p>
+<p>Hello, my name is Samara and here you will discover a bit about me, my future interests, and what I intend to learn. ♥*♡∞:｡.｡</p>
 </div>
 
 <br><br>
 
-# 🌙 About me
+# ☾ About me
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=samyzvh.samyzvh)
 
 <div>
-  <img src="https://i.pinimg.com/originals/5a/98/7d/5a987d8fab6ac10fa10351b54c6efe83.gif" align="right" width="250px" />
+  <img src="https://i.pinimg.com/originals/5a/98/7d/5a987d8fab6ac10fa10351b54c6efe83.gif" align="right" width="260px" />
 
-  <div style="text-align: center;" align="left">
-🌼 Student enchanted by Java and the logic behind systems.<br><br>
-🌱 Soon I will start a degree in Systems Analysis and Development.<br><br>
-🔭 Finishing studies in Programming Logic and Algorithms.<br><br>
-⚡ My focus is on developing robust systems and understanding Back-end architecture.<br><br>
-✨ "Programming isn't about what you know; it's about what you can figure out." — Chris Pine<br><br>
+  <div style="text-align: center;" align="left">  
+❀ Student enchanted by Java and the logic behind systems.<br><br>
+✈︎ Soon I will start a degree in Systems Analysis and Development.<br><br>
+ツ Finishing studies in Programming Logic and Algorithms.<br><br>
+ 𐓏 My focus is on developing robust systems and understanding Back-end architecture.<br><br>
+✧ "Programming isn't about what you know; it's about what you can figure out." — Chris Pine<br><br>
+    <br><br>
 </div>
 </div>
 
 <br><br>
 
-<h3 align="right">✨ Follow Me on:</h3>
+<h3 align="right">*°⋆.☆｡Follow me on:</h3>
 <p align="right">
-  <a href="https://wa.me/5581996163089"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://www.instagram.com/samyzvh"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="www.linkedin.com/in/samysouza"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:samyzvh@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/5581996163089"><img src="https://img.shields.io/badge/WHATSAPP-000000?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.instagram.com/samyzvh"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/samysouza"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:samyzvh@gmail.com"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p> 
+<br><br>
 
-
-# 🛠️ Skills & Technologies 
+# ⚒︎ Skills & Technologies 
 <table align="center">
   <tr>
     <td align="center" align="top" width="">
@@ -52,7 +53,7 @@
 
 <hr>
 
-# 💡 Featured Projects
+# ୨୧ Featured Projects
 
 ### 🔥 Project: [Logic Marathon: Python Fundamentals](https://github.com/samyzvh/Jornada-Tech)
 <div>
@@ -61,7 +62,7 @@
 
 > 📝 Description: This project is an algorithm laboratory where I developed solutions for simple, everyday problems, such as financial simulators, academic average calculations, and loop automation. Aimed at improving my practice and logic.
 > 
-> ⭐ Highlights:
+> ★ Highlights:
 > - Implementation of complex approval flows and data analysis using conditional structures (if/elif/else).
 > - Mastery of loops (while and for) for task automation and logical sequences.
 > - Manipulation of different variable types (int, float, string) and precise formatting of numerical outputs.
@@ -94,8 +95,10 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/55/e8/af/55e8af23ff4e1055efd3605624dceb66.gif" width="500" alt="coding gif"/>
   
-  **Thanks for visiting my profile! (´▽`ʃ♡ƪ)**
+  **Thanks for visiting my profile! ♡**
   
-  *For more information, check my LinkedIn*
+  *∧,,,∧    ~  
+(  ̳• · • ̳)   ~ ♡ For more information, check my LinkedIn   ♡
+/       づ  ~*
   
 
