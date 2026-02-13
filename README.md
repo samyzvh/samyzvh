@@ -10,7 +10,7 @@
 
 <br><br>
 
-# 𓆩♡𓆪 About me・。.・゜✭・.
+# 𓆩♡𓆪 About me
 ![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=samyzvh&repo=samyzvh&label=Visitas&labelColor=black&countColor=black)
 
 <div>
