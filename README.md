@@ -10,18 +10,18 @@
 
 <br><br>
 
-# ☾ About me
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=samyzvh.samyzvh)
+# 𓆩♡𓆪 About me・。.・゜✭・.
+![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=samyzvh&repo=samyzvh&label=Visitas&labelColor=black&countColor=black)
 
 <div>
   <img src="https://i.pinimg.com/originals/5a/98/7d/5a987d8fab6ac10fa10351b54c6efe83.gif" align="right" width="260px" />
 
   <div style="text-align: center;" align="left">  
-❀ Student enchanted by Java and the logic behind systems.<br><br>
-✈︎ Soon I will start a degree in Systems Analysis and Development.<br><br>
+☕︎ Student enchanted by Java and the logic behind systems.<br><br>
+🖎 Soon I will start a degree in Systems Analysis and Development.<br><br>
 ツ Finishing studies in Programming Logic and Algorithms.<br><br>
- 𐓏 My focus is on developing robust systems and understanding Back-end architecture.<br><br>
-✧ "Programming isn't about what you know; it's about what you can figure out." — Chris Pine<br><br>
+❀ My focus is on developing robust systems and understanding Back-end architecture.<br><br>
+✴︎ "Programming isn't about what you know; it's about what you can figure out." — Chris Pine<br><br>
     <br><br>
 </div>
 </div>
@@ -37,7 +37,7 @@
 </p> 
 <br><br>
 
-# ⚒︎ Skills & Technologies 
+# 𓆩♡𓆪 Skills & Technologies
 <table align="center">
   <tr>
     <td align="center" align="top" width="">
@@ -53,14 +53,14 @@
 
 <hr>
 
-# ୨୧ Featured Projects
+# 𓆩♡𓆪 Featured Projects
 
-### 🔥 Project: [Logic Marathon: Python Fundamentals](https://github.com/samyzvh/Jornada-Tech)
+### ☆ Project: [Logic Marathon: Python Fundamentals](https://github.com/samyzvh/Jornada-Tech)
 <div>
-  <img src="https://img.shields.io/badge/Python-FF9900?logo=python" alt="Python"/>
+  <img src="https://img.shields.io/badge/Python-000000?logo=python" alt="Python"/>
 </div>
 
-> 📝 Description: This project is an algorithm laboratory where I developed solutions for simple, everyday problems, such as financial simulators, academic average calculations, and loop automation. Aimed at improving my practice and logic.
+> ☕︎ Description: This project is an algorithm laboratory where I developed solutions for simple, everyday problems, such as financial simulators, academic average calculations, and loop automation. Aimed at improving my practice and logic.
 > 
 > ★ Highlights:
 > - Implementation of complex approval flows and data analysis using conditional structures (if/elif/else).
@@ -78,27 +78,28 @@
 </table>
 <hr>
 
-# 📖 Currently Learnin
+# 𓆩♡𓆪 Currently Learnin
 
 <div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-</div>
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
 
 ---
-<h1 align="left">💻 Tech Stack I intend to learn in the future</h1>
+<h1 align="left"> 𓆩♡𓆪 Tech Stack I intend to learn in the future</h1>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,c,cpp,cs,spring,docker,aws,mongodb,postgresql,linux,git" />
 </p>
+</div>
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/55/e8/af/55e8af23ff4e1055efd3605624dceb66.gif" width="500" alt="coding gif"/>
   
   **Thanks for visiting my profile! ♡**
   
-  *∧,,,∧    ~  
-(  ̳• · • ̳)   ~ ♡ For more information, check my LinkedIn   ♡
-/       づ  ~*
+  
+  *♡ For more information, check my LinkedIn   ♡* 
+  
+
   
 
