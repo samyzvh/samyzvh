@@ -1,7 +1,7 @@
 <div >
   <img width="580px" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&bold=true&size=24&pause=1000&color=60A3D9&center=false&vCenter=true&width=435&lines=⁂⁙☆Hello,+I+am+Samy!!;♡+Welcome+to+my+profile." />
   
-<img align="right" src="https://i.pinimg.com/originals/c8/4f/b7/c84fb740471d58ba9597ace28969d490.gif" width="370px" />
+<img align="right" src="https://i.pinimg.com/originals/0c/b8/78/0cb8780082d2e46710a73f06c51285bb.gif" width="370px" />
 
 <div align="left">
 <p>I decided that Back-end is the place for me because I'm very curious about how things happen behind the scenes and it's where logic truly comes to life. ♥*♡｡.(❁ᴗ͈ ˬᴗ͈ ) ༉‧ ♡*.✧</p>
@@ -11,10 +11,10 @@
 <br><br>
 
 # 𓆩♡𓆪 About me
-![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=samyzvh&repo=samyzvh&label=Visitas&labelColor=black&countColor=black)
+![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=samyzvh&repo=samyzvh&label=Visitas&labelColor=%23ADD8E6&countColor=%23ADD8E6)
 
 <div>
-  <img src="https://i.pinimg.com/originals/5a/98/7d/5a987d8fab6ac10fa10351b54c6efe83.gif" align="right" width="260px" />
+  <img src="https://i.pinimg.com/originals/c0/1a/cc/c01acc6f110e5956a1f7fdae92f60850.gif" align="right" width="260px" />
 
   <div style="text-align: center;" align="left">  
 ☕︎ Student enchanted by Java and the logic behind systems.<br><br>
@@ -30,10 +30,10 @@
 
 <h3 align="right">*°⋆.☆｡Follow me on:</h3>
 <p align="right">
-  <a href="https://wa.me/5581996163089"><img src="https://img.shields.io/badge/WHATSAPP-000000?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://www.instagram.com/samyzvh"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="www.linkedin.com/in/samysouza"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:samyzvh@gmail.com"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/5581996163089"><img src="https://img.shields.io/badge/WHATSAPP-ADD8E6?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.instagram.com/samyzvh"><img src="https://img.shields.io/badge/INSTAGRAM-ADD8E6?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/samysouza"><img src="https://img.shields.io/badge/LINKEDIN-ADD8E6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:samyzvh@gmail.com"><img src="https://img.shields.io/badge/GMAIL-ADD8E6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p> 
 <br><br>
 
@@ -57,7 +57,7 @@
 
 ### ☆ Project: [Logic Marathon: Python Fundamentals](https://github.com/samyzvh/Jornada-Tech)
 <div>
-  <img src="https://img.shields.io/badge/Python-000000?logo=python" alt="Python"/>
+  <img src="https://img.shields.io/badge/Python-ADD8E6?logo=python" alt="Python"/>
 </div>
 
 > ☕︎ Description: This project is an algorithm laboratory where I developed solutions for simple, everyday problems, such as financial simulators, academic average calculations, and loop automation. Aimed at improving my practice and logic.
@@ -81,9 +81,9 @@
 # 𓆩♡𓆪 Currently Learnin
 
 <div>
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-ADD8E6?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-ADD8E6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ADD8E6?style=for-the-badge&logo=openjdk&logoColor=white" />
 
 ---
 <h1 align="left"> 𓆩♡𓆪 Tech Stack I intend to learn in the future</h1>
@@ -93,10 +93,8 @@
 </div>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/55/e8/af/55e8af23ff4e1055efd3605624dceb66.gif" width="500" alt="coding gif"/>
   
   **Thanks for visiting my profile! ♡**
-  
   
   *♡ For more information, check my LinkedIn   ♡* 
   
