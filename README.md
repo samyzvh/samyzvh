@@ -11,10 +11,10 @@
 <br><br>
 
 # 𓆩♡𓆪 About me
-![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=samyzvh&repo=samyzvh&label=Visitas&labelColor=%23ADD8E6&countColor=%23ADD8E6)
+![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=samy-alexandre&repo=samyzvh&label=Visitas&labelColor=%23ADD8E6&countColor=%23ADD8E6)
 
 <div>
-  <img src="https://i.pinimg.com/originals/c0/1a/cc/c01acc6f110e5956a1f7fdae92f60850.gif" align="right" width="260px" />
+  <img src="https://i.pinimg.com/originals/c0/1a/cc/c01acc6f110e5956a1f7fdae92f60850.gif" align="right" width="335px" />
 
   <div style="text-align: center;" align="left">  
 ☕︎ Student enchanted by Java and the logic behind systems.<br><br>
@@ -30,10 +30,10 @@
 
 <h3 align="right">*°⋆.☆｡Follow me on:</h3>
 <p align="right">
-  <a href="https://wa.me/5581996163089"><img src="https://img.shields.io/badge/WHATSAPP-ADD8E6?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://www.instagram.com/samyzvh"><img src="https://img.shields.io/badge/INSTAGRAM-ADD8E6?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="www.linkedin.com/in/samysouza"><img src="https://img.shields.io/badge/LINKEDIN-ADD8E6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:samyzvh@gmail.com"><img src="https://img.shields.io/badge/GMAIL-ADD8E6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/5581996163089"><img src="https://img.shields.io/badge/WHATSAPP-ADD8E6?style=for-the-badge&logo=whatsapp&logoColor=black" /></a>
+  <a href="https://www.instagram.com/samyzvh"><img src="https://img.shields.io/badge/INSTAGRAM-ADD8E6?style=for-the-badge&logo=instagram&logoColor=black" /></a>
+  <a href="www.linkedin.com/in/samysouza"><img src="https://img.shields.io/badge/LINKEDIN-ADD8E6?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+  <a href="mailto:samyzvh@gmail.com"><img src="https://img.shields.io/badge/GMAIL-ADD8E6?style=for-the-badge&logo=gmail&logoColor=black" /></a>
 </p> 
 <br><br>
 
@@ -70,7 +70,7 @@
 </p>
       <p align="left">
         <a href="COLE_AQUI_O_LINK_DO_SEU_ARQUIVO">
-          <img src="https://img.shields.io/badge/ACCESS_CODE-000000?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/ACCESS_CODE-ADD8E6?style=for-the-badge&logo=github&logoColor=black" />
         </a>
       </p>
     </td>
@@ -81,15 +81,27 @@
 # 𓆩♡𓆪 Currently Learnin
 
 <div>
-  <img src="https://img.shields.io/badge/HTML5-ADD8E6?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-ADD8E6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ADD8E6?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-ADD8E6?style=for-the-badge&logo=html5&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS3-ADD8E6?style=for-the-badge&logo=css3&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ADD8E6?style=for-the-badge&logo=openjdk&logoColor=black" />
 
 ---
 <h1 align="left"> 𓆩♡𓆪 Tech Stack I intend to learn in the future</h1>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,c,cpp,cs,spring,docker,aws,mongodb,postgresql,linux,git" />
-</p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-ADD8E6?style=for-the-badge&logo=html5&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS3-ADD8E6?style=for-the-badge&logo=css3&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-ADD8E6?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%23-ADD8E6?style=for-the-badge&logo=c-sharp&logoColor=black" />
+  <img src="https://img.shields.io/badge/Spring-ADD8E6?style=for-the-badge&logo=spring&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-ADD8E6?style=for-the-badge&logo=mongodb&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-ADD8E6?style=for-the-badge&logo=postgresql&logoColor=black" />
+  <br>
+
+  <img src="https://img.shields.io/badge/Docker-ADD8E6?style=for-the-badge&logo=docker&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-ADD8E6?style=for-the-badge&logo=amazon-aws&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-ADD8E6?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-ADD8E6?style=for-the-badge&logo=git&logoColor=black" />
 </div>
 
 <div align="center">
