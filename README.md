@@ -11,7 +11,7 @@
 <br><br>
 
 # 𓆩♡𓆪 About me
-![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=samy-alexandre&repo=samyzvh&label=Visitas&labelColor=%23ADD8E6&countColor=%23ADD8E6)
+![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=samyzvh&repo=samyzvh&label=Visitas&labelColor=%23ADD8E6&countColor=%23ADD8E6)
 
 <div>
   <img src="https://i.pinimg.com/originals/c0/1a/cc/c01acc6f110e5956a1f7fdae92f60850.gif" align="right" width="335px" />
@@ -78,7 +78,7 @@
 </table>
 <hr>
 
-# 𓆩♡𓆪 Currently Learnin
+# 𓆩♡𓆪 Currently Learning
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-ADD8E6?style=for-the-badge&logo=html5&logoColor=black" />
