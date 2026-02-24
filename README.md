@@ -69,7 +69,7 @@
 > - Creation of interactive scripts that process user inputs in real-time to generate dynamic results.
 </p>
       <p align="left">
-        <a href="https://github.com/samyzvh/Jornada-Tech/tree/main/Python-Fundamentals">
+        <a href="https://github.com/samyzvh/Jornada-Tech/tree/main/Python">
           <img src="https://img.shields.io/badge/ACCESS_CODE-ADD8E6?style=for-the-badge&logo=github&logoColor=black" />
         </a>
       </p>
