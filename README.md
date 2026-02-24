@@ -17,10 +17,10 @@
   <img src="https://i.pinimg.com/originals/c0/1a/cc/c01acc6f110e5956a1f7fdae92f60850.gif" align="right" width="335px" />
 
   <div style="text-align: center;" align="left">  
-☕︎ Student enchanted by Java and the logic behind systems.<br><br>
-🖎 Soon I will start a degree in Systems Analysis and Development.<br><br>
-ツ Finishing studies in Programming Logic and Algorithms.<br><br>
-❀ My focus is on developing robust systems and understanding Back-end architecture.<br><br>
+☕︎ Systems Analysis and Development (ADS) | UNIT. Mastering Backend Architecture and Java logic.<br><br>
+🖎 Porto Digital Tech Residency: Collaborating on real-world industry challenges within Recife's premier tech hub.<br><br>
+ツ Deep Dive into Java: Applying logic and algorithms to master Java for robust Backend systems.<br><br>
+❀ Language Path: Actively developing English fluency to bridge the gap between local talent and global tech standards.<br><br>
 ✴︎ "Programming isn't about what you know; it's about what you can figure out." — Chris Pine<br><br>
     <br><br>
 </div>
@@ -69,7 +69,7 @@
 > - Creation of interactive scripts that process user inputs in real-time to generate dynamic results.
 </p>
       <p align="left">
-        <a href="COLE_AQUI_O_LINK_DO_SEU_ARQUIVO">
+        <a href="https://github.com/samyzvh/Jornada-Tech/tree/main/Python-Fundamentals">
           <img src="https://img.shields.io/badge/ACCESS_CODE-ADD8E6?style=for-the-badge&logo=github&logoColor=black" />
         </a>
       </p>
